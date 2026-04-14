@@ -41,6 +41,7 @@ k_permutations([1, 2, 3], 2)
 <img width="699" height="222" alt="image" src="https://github.com/user-attachments/assets/45f0dc13-9ebe-49c9-8b1b-6d35d45a022d" />
 
 Ссылки на используемые материалы
+
 Документация Python по модулю itertools: docs.python.org/3/library/itertools.html#itertools.permutations
 
 Понятие рекурсивного обхода дерева для генерации перестановок: Алгоритм "Backtracking" (поиск с возвратом).
